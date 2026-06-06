@@ -110,3 +110,21 @@ B.E. Artificial Intelligence & Data Science
 BMS College of Engineering
 
 Open to AI/ML and Software Development Internship Opportunities.
+
+## 📄 Research Publication
+
+This project was developed as part of an academic research study.
+
+**Paper Title:**
+Restoring Trust on E-Commerce Platforms: Fake Review Detection Using Social Network Analysis and Gradient Boosting
+
+**Authors:**
+Sherisha C V, Mounika B M, Shivani Agrawal
+
+**Guide:**
+Prof. Sangeetha S
+
+**Plagiarism Similarity Score:** 3%
+
+The complete research paper is available in:
+Research_Paper_Fake_Review_Detection.pdf
